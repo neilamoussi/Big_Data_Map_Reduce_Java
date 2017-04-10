@@ -85,7 +85,7 @@ httpclient
 
 - Visualisation du résultat dans le ficher part-r-00000 :  hadoop fs -cat [répertoire du résultat]/part-r-00000
 
-# Tester le code
+# Remarques
 
 On remarque que l'exécution du code en Java est plus rapide qu'avec Python. Alors que le developpement du code en python est plus rapide à celui en java.
 En effet ,En ajava On doit écrire en plus du code de mapper et reducer la classe de driver
