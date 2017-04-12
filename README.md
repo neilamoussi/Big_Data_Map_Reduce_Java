@@ -1,4 +1,4 @@
-# TP1: INITIATION A HADOOP ET MAP-REDUCE
+# INITIATION A HADOOP ET MAP-REDUCE
 
 
 Le fichier en entrée est un fichier log dont les champs sont de la forme suivante:
